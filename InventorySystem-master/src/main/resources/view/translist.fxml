@@ -67,7 +67,7 @@
             <Font size="27.0" />
          </font>
       </Label>
-      <Label fx:id="lblCategory1" alignment="CENTER" layoutX="729.0" layoutY="108.0" prefHeight="51.0" prefWidth="294.0" text="Transaction/Rental" textFill="GREEN">
+      <Label fx:id="lblCategory1" alignment="CENTER" layoutX="729.0" layoutY="108.0" prefHeight="51.0" prefWidth="294.0" text="Transaction/Rental" textFill="WHITE">
          <font>
             <Font size="27.0" />
          </font>

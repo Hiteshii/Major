@@ -52,7 +52,7 @@
             <TableColumn fx:id="trIDR" text="Tr ID" />
             <TableColumn fx:id="trDateR" prefWidth="88.0" text="Date" />
             <TableColumn fx:id="trAccR" prefWidth="57.0" text="Acc ID" />
-            <TableColumn fx:id="rentalID" prefWidth="98.0" text="Rental ID" />
+            <TableColumn fx:id="rentalID" prefWidth="98.0" text="Customer ID" />
             <TableColumn fx:id="trIssuedR" prefWidth="69.0" text="Issued By" />
          </columns>
          <columnResizePolicy>
@@ -67,7 +67,7 @@
             <Font size="27.0" />
          </font>
       </Label>
-      <Label fx:id="lblCategory1" alignment="CENTER" layoutX="729.0" layoutY="108.0" prefHeight="51.0" prefWidth="294.0" text="Transaction/Rental" textFill="GREEN">
+      <Label fx:id="lblCategory1" alignment="CENTER" layoutX="729.0" layoutY="108.0" prefHeight="51.0" prefWidth="294.0" text="Transaction/Rental" textFill="WHITE">
          <font>
             <Font size="27.0" />
          </font>

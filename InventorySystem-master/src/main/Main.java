@@ -1,9 +1,9 @@
 package main;
 
 /**
- * Author: Afif Al Mamun
- * Written on: 08-Jul-18
- * Project: TeslaRentalInventory Ria
+ * Author: Avm inventory
+ * avm food specialities
+ * Project: Inventory management system
  **/
 
 import main.java.controllers.PromptDialogController;

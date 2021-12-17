@@ -62,7 +62,7 @@
                         <Tooltip text="Add, Delete, Update, List Customers" />
                      </tooltip>
                   </JFXButton>
-                  <JFXButton fx:id="btnSells" alignment="BASELINE_LEFT" graphicTextGap="40.0" layoutX="8.0" layoutY="176.0" onAction="#btnNavigators" prefHeight="50.0" prefWidth="238.0" ripplerFill="WHITE" text="Sales" AnchorPane.leftAnchor="8.0" AnchorPane.rightAnchor="8.0">
+                  <JFXButton fx:id="btnSells" alignment="BASELINE_LEFT" graphicTextGap="40.0" layoutX="8.0" layoutY="176.0" onAction="#btnNavigators" prefHeight="50.0" prefWidth="238.0" ripplerFill="WHITE" text="Sells" AnchorPane.leftAnchor="8.0" AnchorPane.rightAnchor="8.0">
                      <graphic>
                         <FontAwesomeIconView fill="WHITE" glyphName="LINE_CHART" size="30" wrappingWidth="32.28571319580078" />
                      </graphic>
@@ -184,13 +184,13 @@
                   <Image url="@../icons/dukelogo.png" />
                </image>
             </ImageView>
-            <Label alignment="CENTER" layoutX="94.0" layoutY="37.0" prefHeight="21.0" prefWidth="100.0" text="AVM" textAlignment="CENTER" textFill="WHITE">
+            <Label alignment="CENTER" layoutX="94.0" layoutY="37.0" prefHeight="21.0" prefWidth="100.0" text="Inventory" textAlignment="CENTER" textFill="WHITE">
                <font>
                   <Font name="System Bold" size="15.0" />
                </font>
             </Label>
             <Line endX="298.0" layoutX="-19.0" layoutY="126.0" startX="14.5" stroke="WHITE" AnchorPane.leftAnchor="-5.0" AnchorPane.rightAnchor="0.5" />
-            <Label alignment="CENTER" layoutX="94.0" layoutY="64.0" prefHeight="21.0" prefWidth="100.0" text="Inventory" textFill="WHITE">
+            <Label alignment="CENTER" layoutX="94.0" layoutY="64.0" prefHeight="21.0" prefWidth="100.0" text="System" textFill="WHITE">
                <font>
                   <Font name="System Bold" size="15.0" />
                </font>
